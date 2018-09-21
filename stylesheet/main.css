@@ -57,9 +57,14 @@ img.avatar {
 .container {
     padding: 16px;
 }
-#fpas{
+#fpas a{
     color:white;
-    text-align: left;
+}
+#fpas a:hover{
+    color:blue;
+}
+#fpas a:active{
+    color:red;
 }
 
 
